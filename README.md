@@ -1,5 +1,6 @@
 ### Eco Cosmetic Landing Page
 
+## Brief Description
 **Eco Cosmetic** is a landing page for a brand offering eco-friendly cosmetics and handcrafted candles. This page introduces the brand's values, product catalog, founder story, and includes a contact form for customer inquiries.
 
 #### Technologies Used
@@ -8,13 +9,10 @@
 - **CSS (SCSS)** for styling and layout design
 - **Responsive Design** to ensure optimal display on various devices
 
-#### Preview
 
-Link to the live preview: https://yurovych.github.io/Eco-cosmetic-landing/
-
-#### Mockup
-
-Link to the mockup: https://www.figma.com/design/Fz588JKGuPS2Bk21De4KE5/Brand-of-eco-cosmetics-_FE-students?node-id=21779-631&node-type=frame
+## Links
+- **Preview**: [Project Live Preview](https://yurovych.github.io/Eco-cosmetic-landing/)
+- **Mockup**: [Figma Mockup Link](https://www.figma.com/design/Fz588JKGuPS2Bk21De4KE5/Brand-of-eco-cosmetics-_FE-students?node-id=21779-631&node-type=frame)
 
 #### Additional Instructions
 
