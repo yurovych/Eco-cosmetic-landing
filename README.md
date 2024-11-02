@@ -10,11 +10,11 @@
 
 #### Preview
 
-Link to the live preview: [Link Here]
+Link to the live preview: https://yurovych.github.io/Eco-cosmetic-landing/
 
 #### Mockup
 
-Link to the mockup: [Link Here]
+Link to the mockup: https://www.figma.com/design/Fz588JKGuPS2Bk21De4KE5/Brand-of-eco-cosmetics-_FE-students?node-id=21779-631&node-type=frame
 
 #### Additional Instructions
 
